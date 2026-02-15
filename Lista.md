@@ -7,7 +7,7 @@ Como são resoluções para um curso de Lógica de Programação (nível inicant
 
 #### Exercicio 001
 
-Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+Faça um Programa que mostre a mensagem "Alo mundo!" na tela.
 
 #### Exercicio 002
 
