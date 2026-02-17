@@ -12,5 +12,7 @@ double metros = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
 double cm = metros * 100 ;
 Console.WriteLine($"O valor em  {cm} cm "); 
+
+Console.ReadKey();
 }
 }
