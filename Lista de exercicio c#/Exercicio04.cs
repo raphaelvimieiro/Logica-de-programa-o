@@ -21,6 +21,9 @@ Console.WriteLine($"Nota 4: {nota4}");
 
 double media = (nota1+nota2+nota3+nota4)/4.0;
 Console.WriteLine($"A média do bimestre foi {media}");
+  
+Console.ReadKey();
+  
     }
 
 }
